@@ -1,2 +1,2 @@
 # Personal-Projects
-Personal coding projects that I have completed outside of LSU.
+Personal coding and cyber projects that I have completed outside of LSU.
